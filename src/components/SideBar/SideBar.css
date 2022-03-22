@@ -1,0 +1,10 @@
+.sidebar-body{
+    min-height:85vh;
+    background-color:#DAD6D6;
+    margin:10px
+}
+.sidebar-orientation{
+    display:flex;
+    flex-direction:column;
+    margin-bottom:12px;
+}
