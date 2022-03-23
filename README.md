@@ -1,3 +1,12 @@
+#Application Navigation
+
+This project can be viewed in local through the url localhost:3000
+
+When you hit the link localhost:3000/ -> The application naigates to localhost:3000/Items -> Where We have Restaurant names on leftside and items on right side.
+The available items will be with green color as background and unavialble is with red color.
+
+Clicking on green color items will turn them to red -> if apply is clicked it will be saved. else -> without clicking apply if navigate to other restuarnts the selection will be lost.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
